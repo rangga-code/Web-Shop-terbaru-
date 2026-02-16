@@ -79,8 +79,8 @@ export const productsData: ProductsData = {
       ]
     },
     {
-      id: 4, name: "Sell Script Lily Generation 2", icon: "fas fa-database",
-      description: "Script Lily Generation 2, versi terbaru dari bot WhatsApp yang sudah dilengkapi fitur modern, performa cepat, dan sistem auto-update.",
+      id: 4, name: "Sell Script Rangga Md v1", icon: "fas fa-database",
+      description: "Script Rangga Md v1, versi terbaru dari bot WhatsApp yang sudah dilengkapi fitur modern, performa cepat, dan sistem auto-update.",
       variants: [
         { name: "600 Features (NO UPDATE)", price: 30000 },
         { name: "600 Features (FREE 1x UPDATE)", price: 35000 },
