@@ -14,11 +14,11 @@ export interface FreeScript {
 export const freeScripts: FreeScript[] = [
   {
     id: 1,
-    title: "Bot WhatsApp Starter Pack",
+    title: "Base Bot WhatsApp",
     description: "Script bot WhatsApp dasar dengan fitur menu, downloader, dan AI chat. Cocok untuk pemula yang ingin belajar membuat bot sendiri.",
     image: "https://images.unsplash.com/photo-1611746872915-64382b5c76da?w=400&q=80",
     youtubeUrl: "https://youtube.com/@rangga_code",
-    downloadFile: "/scgratis/bot-wa-starter.zip",
+    downloadFile: "/scgratis/basebot-wa-supportlid.zip",
     version: "1.2.0",
     fileSize: "3.5 MB",
     category: "Bot",
