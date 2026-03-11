@@ -57,7 +57,7 @@ ${formData.message}
       <header className="header-gradient text-white py-10 text-center">
         <div className="max-w-5xl mx-auto px-4">
           <div className="w-24 h-24 rounded-full overflow-hidden mx-auto mb-3 border-4 border-white/30 animate-[float_6s_ease-in-out_infinite]">
-            <img src="{CONFIG.profil}" alt="Profile" className="w-full h-full object-cover" />
+            <img src="https://n.uguu.se/gFvaGPaE.jpg" alt="Profile" className="w-full h-full object-cover" />
 </div>
           <h1 className="text-2xl font-bold relative inline-block">
             {CONFIG.nama}
