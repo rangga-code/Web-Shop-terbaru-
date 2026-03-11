@@ -52,7 +52,7 @@ const Index = () => {
           {/* Profile */}
           <div className="flex items-center gap-4 mb-4">
             <div className="profile-avatar">
-              <img src={faviconImg} alt="Profile" className="w-full h-full object-cover" />
+              <img src={CONFIG.profil} alt="Profile" className="w-full h-full object-cover" />
               <div className="verified-badge">
                 <i className="fas fa-check"></i>
               </div>
